@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (5.0.0-rc.3)
+  - ObjectMapper (3.5.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.0.0-rc.3)
+  - ObjectMapper (~> 3.4)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - ObjectMapper
+
+SPEC CHECKSUMS:
+  Alamofire: ca8c0de6906873be89d6deec5c8de279e00bf872
+  ObjectMapper: 70187b8941977c62ccfb423caf6b50be405cabf0
+
+PODFILE CHECKSUM: ad5cdafa92dd4d6f349acbf029d441f6ae178d74
+
+COCOAPODS: 1.8.4
